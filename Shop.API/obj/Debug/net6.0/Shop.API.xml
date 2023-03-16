@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Shop.API</name>
+    </assembly>
+    <members>
+        <member name="M:Shop.API.Controllers.AuthController.RegisterAsync(Shop.Models.Dtos.UserRegistrationDto)">
+            <summary>
+            User registration
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Shop.API.Controllers.AuthController.Login(Shop.Models.Dtos.UserLoginDto)">
+            <summary>
+            Login
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

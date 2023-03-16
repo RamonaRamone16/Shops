@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Shop\Shop.BLL\bin\Debug\net6.0\Shop.BLL.deps.json
+C:\Users\user\source\repos\Shop\Shop.BLL\bin\Debug\net6.0\Shop.BLL.dll
+C:\Users\user\source\repos\Shop\Shop.BLL\bin\Debug\net6.0\Shop.BLL.pdb
+C:\Users\user\source\repos\Shop\Shop.BLL\bin\Debug\net6.0\Shop.DAL.dll
+C:\Users\user\source\repos\Shop\Shop.BLL\bin\Debug\net6.0\Shop.Models.dll
+C:\Users\user\source\repos\Shop\Shop.BLL\bin\Debug\net6.0\Shop.DAL.pdb
+C:\Users\user\source\repos\Shop\Shop.BLL\bin\Debug\net6.0\Shop.Models.pdb
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\Shop.BLL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\Shop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\Shop.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\Shop.BLL.AssemblyInfo.cs
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\Shop.BLL.csproj.CopyComplete
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\Shop.BLL.dll
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\refint\Shop.BLL.dll
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\Shop.BLL.pdb
+C:\Users\user\source\repos\Shop\Shop.BLL\obj\Debug\net6.0\ref\Shop.BLL.dll

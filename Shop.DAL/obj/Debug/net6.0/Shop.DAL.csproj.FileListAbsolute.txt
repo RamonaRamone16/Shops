@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Shop\Shop.DAL\bin\Debug\net6.0\Shop.DAL.deps.json
+C:\Users\user\source\repos\Shop\Shop.DAL\bin\Debug\net6.0\Shop.DAL.runtimeconfig.json
+C:\Users\user\source\repos\Shop\Shop.DAL\bin\Debug\net6.0\Shop.DAL.dll
+C:\Users\user\source\repos\Shop\Shop.DAL\bin\Debug\net6.0\Shop.DAL.pdb
+C:\Users\user\source\repos\Shop\Shop.DAL\bin\Debug\net6.0\Shop.Models.dll
+C:\Users\user\source\repos\Shop\Shop.DAL\bin\Debug\net6.0\Shop.Models.pdb
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\Shop.DAL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\Shop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\Shop.DAL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\Shop.DAL.AssemblyInfo.cs
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\Shop.DAL.csproj.CopyComplete
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\Shop.DAL.dll
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\refint\Shop.DAL.dll
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\Shop.DAL.pdb
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\Shop.DAL.genruntimeconfig.cache
+C:\Users\user\source\repos\Shop\Shop.DAL\obj\Debug\net6.0\ref\Shop.DAL.dll
